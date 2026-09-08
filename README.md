@@ -1,14 +1,10 @@
 # Senior-Project-Practice
-The purpose of this assignment is to make sure every student can independently complete the basic Git/GitHub workflow that will be used during Senior Project.
+Name: Uyi Odeh
 
-This is an individual, in-class assignment designed to be completed in approximately 60 minutes.
+Technology Interest: Networking and Telecommunication
 
-By the end of the exercise, you should be able to:
+Senior Project Skill Goal: Software Defined Networking
 
-create a GitHub repository
-clone the repository
-create a branch
-modify code
-commit and push changes
-create a Pull Request
-merge your work into the main branch
+
+
+Branch → Code → Commit → Push → Pull Request → Review → Merge
